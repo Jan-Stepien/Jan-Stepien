@@ -1,5 +1,14 @@
-### Hi there 👋
+## Technology
+Flutter
 
-I'm a Flutter Engineer.
+### Company
+[Very Good Ventures](https://verygood.ventures)
 
-Current read: [Building Mobile Apps at Scale](https://www.mobileatscale.com/).
+## Profile
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jan-stepien-developer/)
+
+### Personality
+[ESTP](https://www.16personalities.com/estp-personality)
+
+### Reading
+[Building Mobile Apps at Scale](https://www.mobileatscale.com/).
