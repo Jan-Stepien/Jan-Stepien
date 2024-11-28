@@ -10,4 +10,4 @@
 [ESTP](https://www.16personalities.com/estp-personality)
 
 ### Reading
-[Flutter Engineering by Majid Hajian]([https://www.mobileatscale.com/](https://www.amazon.com/Flutter-Engineering-Majid-Hajian/dp/B0CSPN31J6)).
+[Flutter Engineering by Majid Hajian]([https://www.mobileatscale.com/](https://www.amazon.com/Flutter-Engineering-Majid-Hajian/dp/B0CSPN31J6).
