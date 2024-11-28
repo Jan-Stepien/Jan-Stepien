@@ -1,4 +1,4 @@
-# Flutter Engineer
+# Lead Flutter Engineer
 
 ### Company
 [OneRoof](https://www.oneroofapp.com/)
@@ -10,4 +10,4 @@
 [ESTP](https://www.16personalities.com/estp-personality)
 
 ### Reading
-[Building Mobile Apps at Scale](https://www.mobileatscale.com/).
+[Flutter Engineering by Majid Hajian]([https://www.mobileatscale.com/](https://www.amazon.com/Flutter-Engineering-Majid-Hajian/dp/B0CSPN31J6)).
